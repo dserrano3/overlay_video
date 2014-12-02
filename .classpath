@@ -2,49 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="javacv/artoolkitplus-android-arm.jar"/>
-	<classpathentry kind="lib" path="javacv/artoolkitplus-android-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/artoolkitplus-linux-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/artoolkitplus-linux-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/artoolkitplus-macosx-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/artoolkitplus-windows-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/artoolkitplus-windows-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/artoolkitplus.jar"/>
-	<classpathentry kind="lib" path="javacv/ffmpeg-android-arm.jar"/>
-	<classpathentry kind="lib" path="javacv/ffmpeg-android-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/ffmpeg-linux-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/ffmpeg-linux-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/ffmpeg-macosx-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/ffmpeg-windows-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/ffmpeg-windows-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/ffmpeg.jar"/>
-	<classpathentry kind="lib" path="javacv/flycapture-linux-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/flycapture-linux-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/flycapture-windows-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/flycapture-windows-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/flycapture.jar"/>
 	<classpathentry kind="lib" path="javacv/javacpp.jar"/>
 	<classpathentry kind="lib" path="javacv/javacv.jar"/>
-	<classpathentry kind="lib" path="javacv/libdc1394-linux-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/libdc1394-linux-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/libdc1394-macosx-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/libdc1394.jar"/>
-	<classpathentry kind="lib" path="javacv/libfreenect-linux-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/libfreenect-linux-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/libfreenect-macosx-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/libfreenect-windows-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/libfreenect-windows-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/libfreenect.jar"/>
-	<classpathentry kind="lib" path="javacv/opencv-android-arm.jar"/>
-	<classpathentry kind="lib" path="javacv/opencv-android-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/opencv-linux-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/opencv-linux-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/opencv-macosx-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/opencv-windows-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/opencv-windows-x86.jar"/>
 	<classpathentry kind="lib" path="javacv/opencv.jar"/>
-	<classpathentry kind="lib" path="javacv/videoinput-windows-x86_64.jar"/>
-	<classpathentry kind="lib" path="javacv/videoinput-windows-x86.jar"/>
-	<classpathentry kind="lib" path="javacv/videoinput.jar"/>
+	<classpathentry kind="lib" path="javacv/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="javacv/ffmpeg-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="javacv/opencv-windows-x86_64.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
